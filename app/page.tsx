@@ -278,7 +278,7 @@ export default function RollerMateLanding() {
                 Use voice commands or the mobile app anytime, anywhere to control your door.
               </p>
               <Image
-                src="/placeholder.svg?height=200&width=300"
+                src="/image3.png?height=200&width=300"
                 alt="Control step"
                 width={300}
                 height={200}
