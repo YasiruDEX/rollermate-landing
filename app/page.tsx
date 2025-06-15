@@ -33,7 +33,7 @@ export default function RollerMateLanding() {
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
               <Shield className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-900">RollerMate</span>
+            <span className="text-xl font-bold text-gray-900">AutoZone 24x7</span>
           </div>
           <nav className="hidden md:flex items-center space-x-6">
             <Link href="#features" className="text-gray-600 hover:text-blue-600 transition-colors">
@@ -119,7 +119,7 @@ export default function RollerMateLanding() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Smart Features That Make Life Easier</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              RollerMate brings your roller door into the smart home era with powerful features designed for convenience
+              AutoZone 24x7 brings your roller door into the smart home era with powerful features designed for convenience
               and security.
             </p>
           </div>
@@ -241,7 +241,7 @@ export default function RollerMateLanding() {
               </div>
               <h3 className="text-xl font-semibold mb-4">Install</h3>
               <p className="text-gray-600 mb-6">
-                Attach RollerMate to your existing roller door motor. No complex wiring required.
+                Attach AutoZone 24x7 to your existing roller door motor. No complex wiring required.
               </p>
               <Image
                 src="/image1.png?height=200&width=300"
@@ -342,7 +342,7 @@ export default function RollerMateLanding() {
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-500 flex-shrink-0" />
-                  <span>2 RollerMate devices included</span>
+                  <span>2 AutoZone 24x7 devices included</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-500 flex-shrink-0" />
@@ -369,7 +369,7 @@ export default function RollerMateLanding() {
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-500 flex-shrink-0" />
-                  <span>3 RollerMate devices included</span>
+                  <span>3 AutoZone 24x7 devices included</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-500 flex-shrink-0" />
@@ -394,7 +394,7 @@ export default function RollerMateLanding() {
       <section className="py-20 bg-blue-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Why Choose RollerMate?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Why Choose AutoZone 24x7?</h2>
             <p className="text-xl text-gray-600">Experience the benefits that matter most to you and your family</p>
           </div>
 
@@ -439,7 +439,7 @@ export default function RollerMateLanding() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">What Our Customers Say</h2>
-            <p className="text-xl text-gray-600">Real experiences from satisfied RollerMate users</p>
+            <p className="text-xl text-gray-600">Real experiences from satisfied AutoZone 24x7 users</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
@@ -451,7 +451,7 @@ export default function RollerMateLanding() {
                   ))}
                 </div>
                 <p className="text-gray-600 mb-4">
-                  "RollerMate has completely changed how we use our garage. The convenience of voice control and never
+                  "AutoZone 24x7 has completely changed how we use our garage. The convenience of voice control and never
                   worrying about leaving the door open is incredible."
                 </p>
                 <div className="flex items-center">
@@ -514,7 +514,7 @@ export default function RollerMateLanding() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Ready to Upgrade Your Rolling Door?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers who have already transformed their homes with RollerMate.
+            Join thousands of satisfied customers who have already transformed their homes with AutoZone 24x7.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 text-lg px-8 py-4">
@@ -540,7 +540,7 @@ export default function RollerMateLanding() {
                 <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                   <Shield className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">RollerMate</span>
+                <span className="text-xl font-bold">AutoZone 24x7</span>
               </div>
               <p className="text-gray-400 mb-6 max-w-md">
                 The smart rolling door controller that brings convenience, security, and peace of mind to your home.
@@ -589,7 +589,7 @@ export default function RollerMateLanding() {
               <div className="space-y-2">
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4 text-gray-400" />
-                  <span className="text-gray-400">support@rollermate.lk</span>
+                  <span className="text-gray-400">support@AutoZone 24x7.lk</span>
                 </div>
                 <p className="text-gray-400 text-sm">
                   For any questions, reach us at our support email. We're here to help!
@@ -599,7 +599,7 @@ export default function RollerMateLanding() {
           </div>
 
           <div className="border-t border-gray-800 mt-12 pt-8 text-center">
-            <p className="text-gray-400">&copy; {new Date().getFullYear()} RollerMate. All rights reserved.</p>
+            <p className="text-gray-400">&copy; {new Date().getFullYear()} AutoZone 24x7. All rights reserved.</p>
           </div>
         </div>
       </footer>
